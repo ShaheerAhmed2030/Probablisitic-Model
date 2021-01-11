@@ -1,9 +1,15 @@
 # Probablisitic-Model
 
-This reporsitory consists of a probablistic model and Decision Tree.
+This reporsitory contains a probablistic model and Decision Tree.
 
-1) Compiling the code.
-For Data Cleaning and Visualization, go to the Data Processing Folder and run the file names as DataCleaning.py. You can either run it from an IDE or you can use the command line.
-For Command Line, use the following Syntax:
-python Filename.py
-Similarly, you can go to Decision Tree or Bayes folders to access those codes.
+# Compilation
+For compiling on the command line, use this syntax: python FIle.py
+
+# Data Cleaning
+The relevant code is in the DataCleaning.py file.
+
+# Bayesian Model
+The relevant code is in the Bayes.py file.
+
+# Decision Tree
+The relevant code is in the ID3.py file.
